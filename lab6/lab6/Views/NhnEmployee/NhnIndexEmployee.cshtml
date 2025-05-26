@@ -1,0 +1,31 @@
+﻿@model List<NhnLab06.Models.NhnEmployee>
+
+<h2>Danh sách nhân viên</h2>
+<a class="btn btn-primary" asp-action="NhnCreate">Thêm mới</a>
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.NhnId</td>
+                <td>@emp.NhnName</td>
+                <td>@emp.NhnBirthDay.ToShortDateString()</td>
+                <td>@emp.NhnEmail</td>
+                <td>@emp.NhnPhone</td>
+                <td>@emp.NhnSalary</td>
+                <td>@(emp.NhnStatus ? "Đang làm" : "Đã nghỉ")</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿@model NhnLab06.Models.NhnEmployee
+
+<h2>Thêm nhân viên</h2>
+<form asp-action="NhnCreateSubmit" method="post" class="form">
+    <div class="form-group">
+        <label>Tên</label>
+        <input asp-for="NhnName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input asp-for="NhnBirthDay" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="NhnEmail" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Điện thoại</label>
+        <input asp-for="NhnPhone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Lương</label>
+        <input asp-for="NhnSalary" class="form-control" />
+    </div>
+    <div class="form-group form-check">
+        <input asp-for="NhnStatus" class="form-check-input" />
+        <label class="form-check-label">Đang làm</label>
+    </div>
+    <button type="submit" class="btn btn-success">Thêm</button>
+</form>
