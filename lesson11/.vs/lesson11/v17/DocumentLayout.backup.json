@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\lesson11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\lesson11\\controllers\\nhnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|solutionrelative:controllers\\nhnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\lesson11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{813A8F99-D7D9-43B9-99AC-0689AD7257F3}|lesson11.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:02:27.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhnHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\Controllers\\NhnHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NhnHomeController.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\Controllers\\NhnHomeController.cs",
+              "RelativeToolTip": "Controllers\\NhnHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:47:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\lesson11\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T01:44:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

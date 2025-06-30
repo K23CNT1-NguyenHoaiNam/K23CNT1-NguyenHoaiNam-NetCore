@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\views\\shared\\_nhnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:views\\shared\\_nhnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\views\\nhnhome\\nhnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:views\\nhnhome\\nhnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\controllers\\nhnemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:controllers\\nhnemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\views\\nhnemployees\\nhnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:views\\nhnemployees\\nhnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\models\\nguyenhoainam2310900073context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:models\\nguyenhoainam2310900073context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\controllers\\nhnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:controllers\\nhnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|c:\\users\\mr truong\\desktop\\k23cnt1-nguyenhoainam-netcore\\k23cnt1-nguyenhoainam-netcore\\nguyenhoainam_2310900073\\models\\nhnemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C293132-155D-4EC5-AE01-EB22E544B273}|NguyenHoaiNam_2310900073.csproj|solutionrelative:models\\nhnemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NguyenHoaiNam2310900073Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Models\\NguyenHoaiNam2310900073Context.cs",
+              "RelativeDocumentMoniker": "Models\\NguyenHoaiNam2310900073Context.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Models\\NguyenHoaiNam2310900073Context.cs",
+              "RelativeToolTip": "Models\\NguyenHoaiNam2310900073Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:50:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhnEmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Controllers\\NhnEmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NhnEmployeesController.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Controllers\\NhnEmployeesController.cs",
+              "RelativeToolTip": "Controllers\\NhnEmployeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:04:44.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhnIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\NhnHome\\NhnIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NhnHome\\NhnIndex.cshtml",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\NhnHome\\NhnIndex.cshtml",
+              "RelativeToolTip": "Views\\NhnHome\\NhnIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T02:34:06.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NhnLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\Shared\\_NhnLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NhnLayout.cshtml",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\Shared\\_NhnLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NhnLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T02:56:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:33:27.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhnHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Controllers\\NhnHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NhnHomeController.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Controllers\\NhnHomeController.cs",
+              "RelativeToolTip": "Controllers\\NhnHomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:33:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T03:13:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T02:50:59.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhnIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\NhnEmployees\\NhnIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NhnEmployees\\NhnIndex.cshtml",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Views\\NhnEmployees\\NhnIndex.cshtml",
+              "RelativeToolTip": "Views\\NhnEmployees\\NhnIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T03:22:18.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhnEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Models\\NhnEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\NhnEmployee.cs",
+              "ToolTip": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NguyenHoaiNam_2310900073\\Models\\NhnEmployee.cs",
+              "RelativeToolTip": "Models\\NhnEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:55:16.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

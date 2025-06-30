@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1_NguyenHoaiNam_NetCore\\NhnLesson09\\NhnLesson09\\NhnLesson09.csproj",
+      "projectUniqueName": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NhnLesson09\\NhnLesson09\\NhnLesson09.csproj",
       "projectName": "NhnLesson09",
-      "projectPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1_NguyenHoaiNam_NetCore\\NhnLesson09\\NhnLesson09\\NhnLesson09.csproj",
+      "projectPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NhnLesson09\\NhnLesson09\\NhnLesson09.csproj",
       "packagesPath": "C:\\Users\\Mr Truong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1_NguyenHoaiNam_NetCore\\NhnLesson09\\NhnLesson09\\obj\\",
+      "outputPath": "C:\\Users\\Mr Truong\\Desktop\\K23CNT1-NguyenHoaiNam-NetCore\\K23CNT1-NguyenHoaiNam-NetCore\\NhnLesson09\\NhnLesson09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mr Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",

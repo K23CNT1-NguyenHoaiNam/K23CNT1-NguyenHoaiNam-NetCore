@@ -1,0 +1,9 @@
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.AssemblyInfoInputs.cache
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.AssemblyInfo.cs
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.csproj.CoreCompileInputs.cache
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.RazorAssemblyInfo.cache
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.RazorAssemblyInfo.cs
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.sourcelink.json
+C:\Users\Mr Truong\Desktop\K23CNT1-NguyenHoaiNam-NetCore\K23CNT1-NguyenHoaiNam-NetCore\lesson11\obj\Debug\net8.0\lesson11.csproj.AssemblyReference.cache
